@@ -2,10 +2,10 @@
 using namespace std;
 /*=======================================================*/
 int main(int argc, char const *argv[]){
-    cout << "welcome" << endl;
-    cout << "welcome" << endl;
-    cout << "welcome" << endl;
-    cout << "welcome" << endl;
+    cout << "test3" << endl;
+    cout << "test3" << endl;
+    cout << "test3" << endl;
+    cout << "test3" << endl;
     
     return 0;
 }
